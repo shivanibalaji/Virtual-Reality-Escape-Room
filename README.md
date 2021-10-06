@@ -8,7 +8,8 @@
 ### 1) Lobby scene environment box and spring button
 ### 2) Artificial illusion shader for the entry banners
 ### 3) Interior Props inside the hut 
-### 4)Cube Animation
+### 4) Cube Animation
+### 5) Interior House and Hut
 
 ## FUNCTIONALITIES DONE BY ME
 ### 1) Button clickable script
