@@ -6,6 +6,10 @@
 
 ## ASSETS IMPORTED 
 ### 1) Lobby scene environment box and spring button
-### 2) 
+### 2) Artificial illusion shader for the entry banners
+### 3) Interior Props inside the hut 
+### 4)Cube Animation
+
+## FUNCTIONALITIES DONE BY ME
 
                              
