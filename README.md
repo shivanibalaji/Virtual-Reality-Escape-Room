@@ -11,5 +11,13 @@
 ### 4)Cube Animation
 
 ## FUNCTIONALITIES DONE BY ME
+### 1) Button clickable script
+### 2) Scene Loader script
+### 3) Cube Killer script 
+### 4) Player Locomotion
+### 5) Object Grabbing
+### 6) Particle systems in the hut
+### 7) Girl Character Animations
+### 8) Instruction Banners
 
                              
